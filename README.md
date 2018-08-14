@@ -1,5 +1,4 @@
 # thebindery
-
 <?php
 /**
  * Template Name: Sunday Dinners Template
